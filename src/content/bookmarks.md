@@ -45,7 +45,7 @@ links:
     title: DeepSeek
     src: deepseek.svg
     alt: deepseek-icon
-  - href: https://github.com/ahmetdem
+  - href: https://github.com/KINGYJL
     title: Github
     src: github.svg
     alt: github-icon
